@@ -18,4 +18,6 @@ python pyinstxtractor.py <filename>
 converting the pyc to bytecode.
 run Pyc2Bytecode in cmd and use this command
 *  **python pyc2bytecode.py -p <pyc_file_path> -o <output_file_path>**
+
+
 and you should see the bytecode in a text file. 
