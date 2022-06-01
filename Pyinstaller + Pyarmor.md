@@ -7,8 +7,8 @@ and it will appear in the dist folder.
 
 Now onto unpacking and decompiling it on the latest version of python 3.10
 
-Use pyinstxtractor from https://github.com/extremecoders-re/pyinstxtractor
-Use Pyc2Bytecode from https://github.com/knight0x07/pyc2bytecode
+* Use pyinstxtractor from https://github.com/extremecoders-re/pyinstxtractor
+* Use Pyc2Bytecode from https://github.com/knight0x07/pyc2bytecode
 
 run the command with pyinstxtractor:
 python pyinstxtractor.py <filename>
